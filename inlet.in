@@ -1,0 +1,5 @@
+Hello world!;1
+Node with spaces and tabs;;2
+Node №3 & special chars: " ' $ @ 123;0
+Last node with index -1;-1
+Very long node data with lots of symbols: !@#$%^&*()_+-=[]{}|;:<>,.?/;4
